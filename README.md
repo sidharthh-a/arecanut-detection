@@ -1,6 +1,3 @@
-Here's your updated README with proper line breaks:
-
----
 
 # 🌰 Arecanut Detection System
 
@@ -33,8 +30,8 @@ This project uses the YOLOv8 object detection model to identify arecanuts in rea
 
 ## 🛠️ Built By
 
+* Sidharth A
 * Lakshan Krithik
-* Siddarth A
 * Ajendra Charuvila
 
 ---
